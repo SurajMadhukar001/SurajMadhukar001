@@ -1,5 +1,5 @@
-<h1 align="center">Hii !! 👋, I'm Suraj Madhukar</h1>
-<h3 align="center">A Passionate frontend Developer from India</h3>
+<h1 align="center">Hii !! 👋, I'm Suraj Madhukar😎</h1>
+<h3 align="center">A Passionate frontend Developer✔ from India...</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
 - 📫 How to reach me **surajmadhukar478@gmail.com**
